@@ -4,4 +4,4 @@ I'm **lolcatswag**! I'm a fullstack dev, i do a lot of random stuff from discord
 
 # Stuff i know or something
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nextjs,nodejs,express,bun,elysia,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nextjs,nodejs,express,bun,elysia,tailwind,postgres,tauri,git,robloxstudio,figma,neovim,arch,linux)](https://skillicons.dev)
