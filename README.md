@@ -1,1 +1,3 @@
-*i make stuff and use Ub***ntu*
+*i make stuff*
+
+*- ufwo 2025*
