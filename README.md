@@ -1,3 +1,3 @@
 *i make stuff... sometimes...*
 
-*...i like ts and golang...*
+*...i like ts and go...*
